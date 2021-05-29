@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueManagerAWSSDKSQS", "QueueManagerAWSSDKSQS\QueueManagerAWSSDKSQS.csproj", "{F38755F8-D877-43B9-953C-20FB7FA95D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F38755F8-D877-43B9-953C-20FB7FA95D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38755F8-D877-43B9-953C-20FB7FA95D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38755F8-D877-43B9-953C-20FB7FA95D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38755F8-D877-43B9-953C-20FB7FA95D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58C8419F-6007-44FC-86CB-67A326DC853C}
+	EndGlobalSection
+EndGlobal
